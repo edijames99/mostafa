@@ -11,7 +11,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 import time
 
-
+# this is for test ... 
 # create a new Firefox session
 driver = webdriver.Firefox()
 driver.implicitly_wait(20)
